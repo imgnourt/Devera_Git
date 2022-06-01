@@ -1,6 +1,11 @@
 This is from branch main
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is from branchC
 =======
 This is from branchB
 >>>>>>> branchB
+=======
+This is from branchA
+This is from branchA-2
+>>>>>>> b3bb359 (input branch A 2)
